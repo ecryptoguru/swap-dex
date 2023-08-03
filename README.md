@@ -1,6 +1,6 @@
 # UNISWAP V1 Hardhat Project
 
-This project demonstrates Uniswap V1 backend and has been made from scratch using Openzeppllin libraries in a Hardhat env with Solidity and JS. This project focuses on three core functions of DEX ie
+This project demonstrates Uniswap V1 backend and has been made from scratch using Openzeppelin libraries in a Hardhat env with Solidity and JS. This project focuses on three core functions of DEX ie
 
 1 - Swapping ETH <> ERC20
 
